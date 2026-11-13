@@ -1,0 +1,54 @@
+{
+  "datasetName": "Empat musim meteorologis",
+  "definition": "Pembagian musim meteorologis berdasarkan bulan; bukan tanggal ekuinoks atau solstis astronomis.",
+  "seasons": [
+    {
+      "hemisphere": "NORTH",
+      "name": "Musim Semi",
+      "startMonth": 3,
+      "endMonth": 5
+    },
+    {
+      "hemisphere": "NORTH",
+      "name": "Musim Panas",
+      "startMonth": 6,
+      "endMonth": 8
+    },
+    {
+      "hemisphere": "NORTH",
+      "name": "Musim Gugur",
+      "startMonth": 9,
+      "endMonth": 11
+    },
+    {
+      "hemisphere": "NORTH",
+      "name": "Musim Dingin",
+      "startMonth": 12,
+      "endMonth": 2
+    },
+    {
+      "hemisphere": "SOUTH",
+      "name": "Musim Semi",
+      "startMonth": 9,
+      "endMonth": 11
+    },
+    {
+      "hemisphere": "SOUTH",
+      "name": "Musim Panas",
+      "startMonth": 12,
+      "endMonth": 2
+    },
+    {
+      "hemisphere": "SOUTH",
+      "name": "Musim Gugur",
+      "startMonth": 3,
+      "endMonth": 5
+    },
+    {
+      "hemisphere": "SOUTH",
+      "name": "Musim Dingin",
+      "startMonth": 6,
+      "endMonth": 8
+    }
+  ]
+}
